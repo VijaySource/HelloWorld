@@ -1,4 +1,4 @@
 HelloWorld
 ==========
 
-HelloWorld Jeniks
+HelloWorld Jeniks Automated Build
